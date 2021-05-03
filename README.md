@@ -11,7 +11,7 @@ Great textbook: [AI: A Modern Approach](http://aima.cs.berkeley.edu/)
   - Expectation maximisation (i.e., k-means, gaussian mixture models)
   - Hidden Markov Models (i.e., Viterbi trellis, adjusting for noise)
 
-- Assignments: 
+- Projects: 
   - design minimax/alpha-beta game agents
   - implement/test classical search algorithms such as A*
   - implement/test Bayesian inference algorithms
