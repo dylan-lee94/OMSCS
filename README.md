@@ -5,7 +5,7 @@
 Great textbook: [AI: A Modern Approach](http://aima.cs.berkeley.edu/)
 - Topics:
   - Adversarial Search / Game Playing - MiniMax, Alpha-Beta Pruning, Iterative Deepening
-  - Search - Uniform Cost Search (UCS), $A^*$ search, bi-directional UCS/A, tri-directional UCS/A*)
+  - Search - Uniform Cost Search (UCS), $$A^*$$ search, bi-directional UCS/A, tri-directional UCS/A*)
   - Bayesian networks (i.e., probabilistic modelling, Gibbs sampling, Metropolis-Hastings sampling)
   - Decision Trees (i.e., splitting, random forests, boosting, validation, etc.)
   - Expectation maximisation (i.e., k-means, gaussian mixture models)
