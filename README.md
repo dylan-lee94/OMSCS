@@ -5,11 +5,14 @@
 Great textbook: [AI: A Modern Approach](http://aima.cs.berkeley.edu/)
 - Topics:
   - Adversarial Search / Game Playing - MiniMax, Alpha-Beta Pruning, Iterative Deepening
-  - Search - Uniform Cost Search (UCS), $$A^*$$ search, bi-directional UCS/A, tri-directional UCS/A*)
-  - Bayesian networks (i.e., probabilistic modelling, Gibbs sampling, Metropolis-Hastings sampling)
-  - Decision Trees (i.e., splitting, random forests, boosting, validation, etc.)
-  - Expectation maximisation (i.e., k-means, gaussian mixture models)
-  - Hidden Markov Models (i.e., Viterbi trellis, adjusting for noise)
+  - Search - Uniform Cost Search, A-star search, bi-directional UCS/A, tri-directional UCS/A
+  - Optimisation - Hill Climbing, Random Restarts, Simulated Annealing, Genetic Algorithms
+  - Constrained Satisfaction - Node, Arc and Path consistency, Backtracking, forward checking
+  - Bayesian networks - Conditional Independece, Confounding cause, Explaining Away, D-Seperation, Gibbs sampling, Metropolis-Hastings sampling
+  - Machine Learning - kNN, Expectation maximisation (k-means, GMM), Decision Trees, Random Forests, Boosting, Neural Nets
+  - Pattern Recognition through Time - Dynamic Time Warping, Sakoe Chiba bounds, Hidden Markov Models, Viterbi trellis
+  - Logic and Planning - Propositional Logic, First-Order Logic, Classical Planning, Situation Calculus
+  - Planning under Uncertainty - Markov Decision Process, Value Iteration, Policy Iteration, POMDPs
 
 - Projects: 
   - design minimax/alpha-beta game agents
